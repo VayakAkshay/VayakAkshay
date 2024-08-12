@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Vayak</h1>
 <h3 align="center">A passionate Python AI/ML developer from India</h3>
 
-- 🔭 I’m currently working as **Freelancer**
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **Chatbot Development**
 
